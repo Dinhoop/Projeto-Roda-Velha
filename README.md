@@ -21,15 +21,17 @@ O objetivo deste projeto é criação de uma plataforma centralizada e intuitiva
 
 * Neil Paiva Tizzo
 
+* ## Apresentação da aplicação em funcionamento
+
+  
+
+https://github.com/user-attachments/assets/0bb8438b-ad7a-4d90-bf6e-71b73d8fb59a
+
+
+
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
-
-Não deixe de informar o link onde a aplicação estiver disponível para acesso (por exemplo: <https://adota-pet.herokuapp.com/src/index.html>).
-
-Se houver usuário de teste, o login e a senha também deverão ser informados aqui (por exemplo: usuário - admin / senha - admin).
-
-O link e o usuário/senha descritos acima são apenas exemplos de como tais informações deverão ser apresentadas.
+Para a instalação é necessário um servidor com o banco de dados SQL ServerExpress 2000 além do servidor de aplicações .net core. No projeto foram utilizados o Nginx como proxy reverso, o kestrel para rodar a aplicação e um servidor de banco de dados, todos rodando em uma máquina virtual na Azure, uma instância Linux.
 
 ## Documentação
 
