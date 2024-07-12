@@ -10,8 +10,8 @@ O objetivo deste projeto é criação de uma plataforma centralizada e intuitiva
 
 ## Integrantes
 
-* Aleksander Cunha Garcia Romero
 * Anderson da Silva Gomes ( Dinhoop )
+* Aleksander Cunha Garcia Romero
 * Arthur de Andrade Simões
 * Átila Eduardo de Pádua Ribeiro
 * Gabriela Aparecida de Araújo
