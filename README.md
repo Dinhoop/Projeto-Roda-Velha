@@ -35,6 +35,9 @@ O projeto foi criado em grupo, dentro dos quais foram criados as funcionalidades
  6. A página perfil, incluindo design e todas as funcionalidades.
  7. A página de relatório completo.
  8. Finalização da página editar evento e suas funcionalidades.
+ 9. Participação da criação do desgn em grupo além de partes da documentação.
+ 10. Modelagem do Esquema de Banco de dados
+ 11. Modelagem Conceitual do Sistema
 
 * ## Apresentação da aplicação em funcionamento
 
