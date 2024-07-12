@@ -4,13 +4,15 @@
 
 `Desenvolvimento de uma Aplicação Interativa`
 
-`1º semestre/2024`
+`1º semestre/2024 - 2º Período`
+
 
 O objetivo deste projeto é criação de uma plataforma centralizada e intuitiva que una entusiastas e devotos de carros clássicos, proporcionando uma jornada de descoberta e participação em eventos especializados.
 
 ## Integrantes
 
-* Anderson da Silva Gomes ( Dinhoop )
+* **Anderson da Silva Gomes ( Dinhoop )**
+
 * Aleksander Cunha Garcia Romero
 * Arthur de Andrade Simões
 * Átila Eduardo de Pádua Ribeiro
@@ -20,6 +22,19 @@ O objetivo deste projeto é criação de uma plataforma centralizada e intuitiva
 ## Orientador
 
 * Neil Paiva Tizzo
+
+* ## Quais papeis e funcionalidades desempenhei neste sistema
+
+O projeto foi criado em grupo, dentro dos quais foram criados as funcionalidades, telas etc. Seguem abaixo as features que foram criados por mim:
+
+ 1. Na página principal, a função de filtrar os eventos por regiões.
+ 2. Botão de like e sua funcionalidade dentro do back-end
+ 3. Atualização do contador de Likes e formatação dos dados vindos do back-end
+ 4. Verificação se o usuário está logado para poder dar like nos eventos e o impedimento de dar likes no evento já curtido pelo usuário
+ 5. Na página de Editar perfil, a inserção do campo confirmar senha e sua verificação.
+ 6. A página perfil, incluindo design e todas as funcionalidades.
+ 7. A página de relatório completo.
+ 8. Finalização da página editar evento e suas funcionalidades.
 
 * ## Apresentação da aplicação em funcionamento
 
